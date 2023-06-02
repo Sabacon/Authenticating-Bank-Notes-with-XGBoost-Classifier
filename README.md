@@ -25,9 +25,8 @@ I trained tree based models and upon validation, XGBoost classifier rose to the 
 Hyperparameter tuning was not required.
 
 ## Results
-All the trained model performed superbly with the selected model posting scores greater than 0.99 on all the metrics.
+All the trained model performed superbly with the selected model posting scores greater than 0.99 on all the metrics. [Take a look](https://sabacon-authenticating-bank-notes-with-xgb-authenticator-qr8oee.streamlit.app/)
 
 ## Deployment
 I built a simple app using Streamlit to classify the scanned notes.
 ![Screenshot (11449)](https://github.com/Sabacon/Authenticating-Bank-Notes-with-XGBoost-Classifier/assets/121859090/939d9c3f-aa4c-442c-be8a-83cded0b00c3)
-[Take a look](https://sabacon-authenticating-bank-notes-with-xgb-authenticator-qr8oee.streamlit.app/)
