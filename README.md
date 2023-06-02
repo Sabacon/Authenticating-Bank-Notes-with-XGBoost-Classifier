@@ -1,4 +1,5 @@
 # Authenticating Bank Notes
+![vlcsnap-2016-12-04-10h40m29s884](https://github.com/Sabacon/Authenticating-Bank-Notes-with-XGBoost-Classifier/assets/121859090/8439ef9d-8866-4e0d-8903-fb72c2cabd56)
 
 ## Problem definition
 Predicting the authenticity of bank notes. This is a binary classification task. 
@@ -28,3 +29,4 @@ All the trained model performed superbly with the selected model posting scores 
 
 ## Deployment
 I built a simple app using Streamlit to classify the scanned notes.
+![Screenshot (11449)](https://github.com/Sabacon/Authenticating-Bank-Notes-with-XGBoost-Classifier/assets/121859090/939d9c3f-aa4c-442c-be8a-83cded0b00c3)
